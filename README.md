@@ -3,6 +3,8 @@ This is a chip completed under the leadership of AI, with the majority of the Ve
 
 This is a small RISC-V core written in synthesizable Verilog that supports the RV32I unprivileged ISA and parts of the privileged ISA, namely M-mode.
 
+This repo is originally copied from https://github.com/hello-eternity/Cyberrio
+
 ## Code and verification
 
 * The Verilog source of the core can be found inside the `src` directory. The top module is the `core` module inside `verilog/src/core.v`.
