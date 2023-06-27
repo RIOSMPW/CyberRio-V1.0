@@ -83,7 +83,9 @@ This project is designed with Caravel frame.
 
 ## Contributor
 Xinze Wang, Guohua Yin, Yifei Zhu
+
 Prof. TAN Zhangxi (Team orginizer)
+
 Prof. CHEN Wei (Add description and details for this work)
 
 ## About RIOS Lab
