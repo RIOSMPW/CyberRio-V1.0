@@ -104,7 +104,7 @@ CyperRio code：https://github.com/hello-eternity/Cyberrio
 
 ChipChat code：https://zenodo.org/record/7953725
 
-ChipGPT paper：ChipGPT: How far are we from natural language hardware design
+ChipGPT paper：[ChipGPT: How far are we from natural language hardware design](https://arxiv.org/abs/2305.14019)
 
 ## About RIOS Lab
 
