@@ -1,7 +1,7 @@
 ![d944c41020e1aa6319c815a2241af5bd_245348954-9f3d5cb0-e9f8-48c8-b4e6-38c896d54da8](https://github.com/riosmpw/CyperRio-V1.0/assets/109063674/a7fc3df9-a453-42e7-96b2-53e4c3fdd311)
 
 
-# Cyberrio
+# CyberRio V1.0
 This is a chip completed under the leadership of AI, with the majority of the Verilog code implementation done using GPT-4. The relevant prompts can be found in the [cyberrio_prompt](cyberrio_prompt.pdf) file. Besides, the user_wrapper prompt part is in [user_wrapper_prompt](user_wrapper_prompt.pdf)
 
 This is a small RISC-V core written in synthesizable Verilog that supports the RV32I unprivileged ISA and parts of the privileged ISA, namely M-mode.
