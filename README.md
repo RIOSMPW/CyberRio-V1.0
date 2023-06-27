@@ -48,6 +48,11 @@ The operation's completion should be signalled by asserting `ready`. After asser
 ## GPT-4 generates cpu code using experience
 During the process of generation, a multitude of options are available for selection. Ultimately, we opted to use GPT-4 to complete the principal sections in this repository. Given that all tasks executable by AutoGPT can also be performed by GPT-4, and considering the enhanced flexibility offered by GPT-4 over AutoGPT, we adopted GPT-4. Furthermore, the utility of Langchain was also contemplated, such as linking RISC-V documentation in advance and subsequently instructing GPT-4 to consult the documentation during generation. However, in the practical application of GPT-4, we observed that its understanding of some basic concepts was limited, leading us to forgo the use of Langchain. Yet, this approach may be reconsidered and further tested in the future, especially for areas requiring intricate details, such as Decode and CSR, where GPT lacks precise knowledge.
 
+![image](https://github.com/riosmpw/CyperRio-V1.0/assets/100336131/a72d0ea1-a40e-4256-9cc1-66765661d586)
+
+General digital chip design flow with GPT/LLM (Source； CHEN Wei)
+
+
 ### File list generation
 
 Throughout the actual steps of generation, virtually each step required multiple iterations, between 5 to 10, to achieve satisfactory results. Initially, we tried employing GPT to propose a five-stage pipeline CPU core file structure. However, due to the plethora of possible implementation strategies, even when it generated a file structure and was later informed about the entire structure, it failed to correctly generate specific features in many files. Thus, we ended up using only a portion of GPT's file structure definition, while we needed to predetermine the features to be implemented in each file.
