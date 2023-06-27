@@ -50,7 +50,7 @@ During the process of generation, a multitude of options are available for selec
 
 ![image](https://github.com/riosmpw/CyperRio-V1.0/assets/100336131/a72d0ea1-a40e-4256-9cc1-66765661d586)
 
-General digital chip design flow with GPT/LLM (Source； CHEN Wei)
+General digital chip design flow with GPT/LLM (Source； Prof. CHEN Wei)
 
 
 ### File list generation
@@ -77,3 +77,5 @@ In summary, GPT-4's understanding of hardware language remains substantially inc
 
 # Contributor
 Xinze Wang, Guohua Yin, Yifei Zhu
+Prof. TAN Zhangxi (Team orginizer)
+Prof. CHEN Wei (Add description and details for this work)
