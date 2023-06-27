@@ -1,3 +1,6 @@
+![d944c41020e1aa6319c815a2241af5bd_245348954-9f3d5cb0-e9f8-48c8-b4e6-38c896d54da8](https://github.com/riosmpw/CyperRio-V1.0/assets/109063674/a7fc3df9-a453-42e7-96b2-53e4c3fdd311)
+
+
 # Cyberrio
 This is a chip completed under the leadership of AI, with the majority of the Verilog code implementation done using GPT-4. The relevant prompts can be found in the [cyberrio_prompt](cyberrio_prompt.pdf) file. Besides, the user_wrapper prompt part is in [user_wrapper_prompt](user_wrapper_prompt.pdf)
 
@@ -79,3 +82,18 @@ In summary, GPT-4's understanding of hardware language remains substantially inc
 Xinze Wang, Guohua Yin, Yifei Zhu
 Prof. TAN Zhangxi (Team orginizer)
 Prof. CHEN Wei (Add description and details for this work)
+
+## About RIOS Lab
+
+![86831b4376ec6a9615bb54533c442366_245438239-6aae13c6-50a5-40c3-9a4e-ed4c79d41c20](https://github.com/riosmpw/CyperRio-V1.0/assets/109063674/edcceb8b-e416-4b45-be1f-37bef893e984)
+
+
+**Ecosystem Wants to be Free**
+
+By David A. Patterson · Director of RIOS Lab
+
+**RISC-V International Open Source Laboratory** (RIOS Lab) is a Shenzhen-based research facility focused on computer system architecture, supported by the Tsinghua-Berkeley Shenzhen Research Institute. As an Open Source and Nobel Prize Laboratory, RIOS Lab promotes open-source innovation and collaboration. Our philosophy is that the computer architecture ecosystem should be free for all to access and build upon.
+
+In November 2019, RIOS Lab was officially unveiled. Under the leadership of 2017 A.M. Turing Award winner Prof. David A. Patterson and operational support from TBSI,  RIOS Lab will conduct cutting-edge research in RISC-V hardware and software technology. Patterson first proposed the Reduced Instruction Set Computer (RISC), an open and free instruction set architecture enabling a new era of processor innovation through open standard collaboration. Released in 2010, the latest Fifth Generation RISC has gained worldwide attention.
+
+The name for the lab RIOS is also inspired by the Spanish word for “rivers.” It symbolizes the flow of information from many sources, coming together to create a whole that is greater than the sum of its parts.
