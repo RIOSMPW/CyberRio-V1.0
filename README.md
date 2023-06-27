@@ -10,6 +10,9 @@ This is a small RISC-V core written in synthesizable Verilog that supports the R
 
 This repo is originally copied from https://github.com/hello-eternity/Cyberrio
 
+![cyberrio](https://github.com/riosmpw/CyberRio-V1.0/assets/100336131/6cbaa345-bdbb-406c-a846-5be28bb08b77)
+
+
 ## Code and verification
 
 * The Verilog source of the core can be found inside the `src` directory. The top module is the `core` module inside `verilog/src/core.v`.
