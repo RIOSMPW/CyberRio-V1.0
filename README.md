@@ -58,7 +58,7 @@ During the process of generation, a multitude of options are available for selec
 
 ![image](https://github.com/riosmpw/CyperRio-V1.0/assets/100336131/a72d0ea1-a40e-4256-9cc1-66765661d586)
 
-General digital chip design flow with GPT/LLM (Source； Prof. CHEN Wei)
+General digital chip design flow with GPT/LLM (Source: Prof. CHEN Wei)
 
 
 ### File list generation
