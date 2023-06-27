@@ -4,6 +4,8 @@
 # CyberRio V1.0
 This is a chip completed under the leadership of AI, with the majority of the Verilog code implementation done using GPT-4. The relevant prompts can be found in the [cyberrio_prompt](cyberrio_prompt.pdf) file. Besides, the user_wrapper prompt part is in [user_wrapper_prompt](user_wrapper_prompt.pdf)
 
+CyberRio is also the first 32bit processor designed with GPT/large language model. 
+
 This is a small RISC-V core written in synthesizable Verilog that supports the RV32I unprivileged ISA and parts of the privileged ISA, namely M-mode.
 
 This repo is originally copied from https://github.com/hello-eternity/Cyberrio
