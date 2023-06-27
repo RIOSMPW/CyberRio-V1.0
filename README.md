@@ -38,6 +38,9 @@ output [31:0] ext_write_data,
 output [ 3:0] ext_write_strobe,
 input  [31:0] ext_read_data
 ```
+![309ed219cfb107b94b11e19c0443425f_v2-0d22b467582697b320215bfaeda9d203_r](https://github.com/riosmpw/CyperRio-V1.0/assets/109063674/8cadfcfe-d37a-4a46-a3bf-fb28137cdabb)
+
+
 #### Read
 
 For a memory read operation (this includes instruction fetch) `valid` will be `1` and `write_strobe` will be `0`. `address` points to the address that should be read and `instruction` is set to `1` if this operation is an instruction fetch.
