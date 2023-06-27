@@ -96,6 +96,16 @@ Prof. TAN Zhangxi (Team orginizer)
 
 Prof. CHEN Wei (Add description and details for this work)
 
+## Reference
+
+ChipChat paper：https://arxiv.org/pdf/2305.1324
+
+CyperRio code：https://github.com/hello-eternity/Cyberrio
+
+ChipChat code：https://zenodo.org/record/7953725
+
+ChipGPT paper：ChipGPT: How far are we from natural language hardware design
+
 ## About RIOS Lab
 
 ![86831b4376ec6a9615bb54533c442366_245438239-6aae13c6-50a5-40c3-9a4e-ed4c79d41c20](https://github.com/riosmpw/CyperRio-V1.0/assets/109063674/edcceb8b-e416-4b45-be1f-37bef893e984)
